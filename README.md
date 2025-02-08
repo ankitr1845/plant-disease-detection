@@ -1,0 +1,1 @@
+It is a deep learning-based system designed to identify plant diseases using image classification techniques. It leverages a fine-tuned ResNet50 model to classify plant leaves into healthy or diseased categories. The project involves preprocessing images, data augmentation, and training the model on a labeled dataset to achieve high accuracy.
